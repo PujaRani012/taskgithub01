@@ -1,0 +1,23 @@
+
+body{
+    background-color:rgb(170, 62, 134);
+    background-image: url('white.jpg');
+    font-color:black; 
+    text-align:"center";
+    padding:25px;
+    height:200px; 
+    width:100px;
+}
+p{  
+    text-decoration-color: white;
+    text-align:"center";
+    word-spacing:3px;
+    width:50%;
+    font-size:30px;
+    font-family:sans-serif;
+    border-width:5px;
+}
+h1{
+   text-align:"center";
+   background-color:white; 
+}

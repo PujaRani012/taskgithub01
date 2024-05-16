@@ -1,0 +1,22 @@
+
+
+body{
+    background-color:rgb(97, 205, 97); 
+    background-image: url('contact.jpg');
+    background-size:cover;
+    padding:25px;
+    height:auto; 
+    width:100px;
+}
+h4{
+    
+    text-align:"center";
+    text-decoration:underline;
+    font-family:Arial;
+    font-size: 25px;
+    font-weight: 100;
+    font-color: rgb(31, 31, 149);
+}
+    .row {
+    columns:3;
+    }
